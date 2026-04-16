@@ -1,3 +1,4 @@
+//g++ main.cpp -o portscanner
 #include <iostream>
 #include <cstring>
 #include <string.h>
